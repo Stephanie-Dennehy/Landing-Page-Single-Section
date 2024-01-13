@@ -52,5 +52,9 @@ i {
     border: 1px solid white;
     border-radius: 50px;
     padding: 20px;
-    margin-right: 20px;
+}
+
+.fa-facebook-f {
+    height: 58px;
+    width: 58px;
 }
